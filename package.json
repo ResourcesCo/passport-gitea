@@ -1,6 +1,6 @@
 {
-  "name": "passport-gitea",
-  "version": "0.0.2",
+  "name": "@resources/passport-gitea",
+  "version": "0.0.3",
   "description": "Gitea authentication strategy for Passport and Node.js.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -8,7 +8,7 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/techknowlogick/passport-gitea.git"
+    "url": "git+https://github.com/ResourcesCo/passport-gitea.git"
   },
   "keywords": [
     "passport",
